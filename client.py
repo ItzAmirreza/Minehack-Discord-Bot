@@ -14,7 +14,7 @@ import random
 from functools import partial
 from bs4 import BeautifulSoup
 
-TOKEN = "NzgwNDk3MDk3ODk5NTA3NzU0.X7v8kQ.yWtAJ6ZNcJz_yhlY5DJEf2iz_74"
+TOKEN = "توکن بات"
 intents = discord.Intents.all()
 intents.members = True
 client = commands.Bot(command_prefix="-", help_command=None, intents=intents)
